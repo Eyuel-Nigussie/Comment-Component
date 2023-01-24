@@ -1,5 +1,5 @@
 - Comments - Write -> add To DB -> Display the Comments
-- posted datae
+- posted date
 - mysql database
 - lazyloaded to minimize network traffic 
 - Real Time validation
